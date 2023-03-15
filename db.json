@@ -1,0 +1,49 @@
+{
+  "feedback": [
+    {
+      "text": "This is feedback item 1 coming from backend",
+      "rating": 3,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "rating": 4,
+      "text": "This is feedback item 2 coming from backend"
+    },
+    {
+      "id": 3,
+      "rating": 5,
+      "text": "This is feedback item 3 coming from backend"
+    },
+    {
+      "id": 4,
+      "rating": 1,
+      "text": "This is feedback item 4 coming from backend"
+    },
+    {
+      "id": 5,
+      "rating": 7,
+      "text": "This is feedback item 5 coming from backend"
+    },
+    {
+      "text": "Lorem ipsum dolor sit",
+      "rating": 5,
+      "id": 6
+    },
+    {
+      "text": "Lorem isum dolor sit",
+      "rating": 6,
+      "id": 7
+    },
+    {
+      "text": "This is a test bro))",
+      "rating": 10,
+      "id": 8
+    },
+    {
+      "text": "sdkfjsdjfklsdjfklsdjf zxcmczxklc zxczxc",
+      "rating": 4,
+      "id": 9
+    }
+  ]
+}
